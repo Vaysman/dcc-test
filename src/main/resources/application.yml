@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    name: dcc
+  jpa:
+    generate-ddl: true
